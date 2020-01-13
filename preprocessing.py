@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
-# Authors Reza Saneei
+# author: Reza Saneei
 
 
 
