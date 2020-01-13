@@ -2,7 +2,7 @@
 """
 Created on Mon Jul 29 15:35:49 2019
 
-@authors: Reza Saneei
+@author: Reza Saneei
 """
 
 from sklearn.svm import SVR
