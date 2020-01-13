@@ -2,8 +2,6 @@
 # coding: utf-8
 # author: Reza Saneei
 
-
-
 import pandas as pd
 from datetime import datetime
 from pandas.plotting import scatter_matrix
@@ -102,8 +100,5 @@ df = df.astype(np.int64)
 #saves the dummy_dataframe to a new csv file
 file_name = 'weather-traffic-dummy.csv'
 output_path = dataset_path + file_name
-
-
-
 
 df.to_csv(output_path)
